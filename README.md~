@@ -13,7 +13,7 @@ The file does not need installation but to launch it u need to follow this steps
 3 - create a directory in your /home/username <br />
 4 - unzip all the files of Turboassembler. There will be created a TASM directory with some .exe files. Copy conecta4.asm to that directory <br />
  
-5 - Open dosbox and write "mount c /home/yourusername" <br />
+5 - Open dosbox and write "mount c /home/username" <br />
 
 6 - write "c:" <br />
 
