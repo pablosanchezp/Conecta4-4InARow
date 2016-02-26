@@ -6,17 +6,13 @@ An implementation of the game 4 in a row with gravity in x86 assembly language.
 All the file is documented in spanish.
 
 ## Installation
-The file does not need installation but to launch it u need to follow this steps:
+The file does not need installation but to launch it u need to follow this steps: <br />
 1 - Install DosBox <br />
 2 - Download TurboAssembler -> https://sourceforge.net/projects/tasmeditor/files/tasmeditor/1.00/tasmeditor.zip/download?use_mirror=nchc <br />
-
 3 - create a directory in your /home/username <br />
 4 - unzip all the files of Turboassembler. There will be created a TASM directory with some .exe files. Copy conecta4.asm to that directory <br />
- 
 5 - Open dosbox and write "mount c /home/yourusername" <br />
-
 6 - write "c:" <br />
-
 7 - write cd "<directoryunziped>/TASM" <br />
 8 - write "tasm conecta4.asm" <br />
 9 - write "tlink conecta4.obj" <br />
